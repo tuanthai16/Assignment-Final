@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Product A",
+      "price": "1000",
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1681102231/freeImage/cpbprdtarsqn779jvmin.jpg",
+      "description": "Camera",
+      "categoryId": "1",
+      "id": 1
+    },
+    {
+      "name": "Product B",
+      "price": "2000",
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1681102390/freeImage/mh4sa9wnocwtn6jtuwbc.jpg",
+      "description": "àdasdasd",
+      "categoryId": "2",
+      "id": 2
+    }
+  ]
+}
